@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{460497EE-0DEE-44BC-81FB-D83DBCACAE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxs.Web", "Presentation\Lxs.Web\Lxs.Web.csproj", "{D9322BBE-4DB6-4A87-88AA-1830263C20D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{917D8251-3A3D-4A5A-AFB1-5B3AF716A998}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{45490324-7F72-41D7-ABF5-B30DDF446A03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxs.Core", "Libraries\Lxs.Core\Lxs.Core.csproj", "{46ED4EDE-27D6-41C2-81B3-809ABFB2FB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxs.Data", "Libraries\Lxs.Data\Lxs.Data.csproj", "{6C974703-843A-42FF-9F3C-63BA8F373E6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxs.Services", "Libraries\Lxs.Services\Lxs.Services.csproj", "{A4C70BE7-2B14-4484-BEF4-387397FC3701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxs.Plugin.Payments.Alipay", "Plugins\Lxs.Plugin.Payments.Alipay\Lxs.Plugin.Payments.Alipay.csproj", "{D19E4653-F50C-4596-BE6B-193059D26574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lxs.Web.Framework", "Presentation\Lxs.Web.Framework\Lxs.Web.Framework.csproj", "{7A9F321C-DD45-4B70-95F6-1B329ACA1CE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9322BBE-4DB6-4A87-88AA-1830263C20D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9322BBE-4DB6-4A87-88AA-1830263C20D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9322BBE-4DB6-4A87-88AA-1830263C20D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9322BBE-4DB6-4A87-88AA-1830263C20D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46ED4EDE-27D6-41C2-81B3-809ABFB2FB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46ED4EDE-27D6-41C2-81B3-809ABFB2FB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46ED4EDE-27D6-41C2-81B3-809ABFB2FB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46ED4EDE-27D6-41C2-81B3-809ABFB2FB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C974703-843A-42FF-9F3C-63BA8F373E6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C974703-843A-42FF-9F3C-63BA8F373E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C974703-843A-42FF-9F3C-63BA8F373E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C974703-843A-42FF-9F3C-63BA8F373E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C70BE7-2B14-4484-BEF4-387397FC3701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C70BE7-2B14-4484-BEF4-387397FC3701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C70BE7-2B14-4484-BEF4-387397FC3701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C70BE7-2B14-4484-BEF4-387397FC3701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19E4653-F50C-4596-BE6B-193059D26574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19E4653-F50C-4596-BE6B-193059D26574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19E4653-F50C-4596-BE6B-193059D26574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19E4653-F50C-4596-BE6B-193059D26574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9F321C-DD45-4B70-95F6-1B329ACA1CE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9F321C-DD45-4B70-95F6-1B329ACA1CE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9F321C-DD45-4B70-95F6-1B329ACA1CE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9F321C-DD45-4B70-95F6-1B329ACA1CE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D9322BBE-4DB6-4A87-88AA-1830263C20D5} = {460497EE-0DEE-44BC-81FB-D83DBCACAE41}
+		{46ED4EDE-27D6-41C2-81B3-809ABFB2FB4E} = {45490324-7F72-41D7-ABF5-B30DDF446A03}
+		{6C974703-843A-42FF-9F3C-63BA8F373E6B} = {45490324-7F72-41D7-ABF5-B30DDF446A03}
+		{A4C70BE7-2B14-4484-BEF4-387397FC3701} = {45490324-7F72-41D7-ABF5-B30DDF446A03}
+		{D19E4653-F50C-4596-BE6B-193059D26574} = {917D8251-3A3D-4A5A-AFB1-5B3AF716A998}
+		{7A9F321C-DD45-4B70-95F6-1B329ACA1CE0} = {460497EE-0DEE-44BC-81FB-D83DBCACAE41}
+	EndGlobalSection
+EndGlobal
