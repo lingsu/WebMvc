@@ -3,3 +3,8 @@ E:\GitHub\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Services.pdb
 E:\GitHub\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.csprojResolveAssemblyReference.cache
 E:\GitHub\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.dll
 E:\GitHub\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.pdb
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Services.dll
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Services.pdb
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.csprojResolveAssemblyReference.cache
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.dll
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.pdb

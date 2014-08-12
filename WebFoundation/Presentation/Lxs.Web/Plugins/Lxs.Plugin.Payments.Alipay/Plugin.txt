@@ -1,0 +1,10 @@
+﻿SystemName:alipay
+FriendlyName:支付宝
+ClassFullName:Lxs.Plugin.Payments.Alipay.Models.PluginService,Lxs.Plugin.Payments.Alipay
+Folder:Lxs.Plugin.Payments.Alipay.dll
+Description:阿里巴巴旗下支付工具
+Type:1
+Author:lxs
+Version:1.0
+SupVersion:1.0
+DisplayOrder:1

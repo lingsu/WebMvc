@@ -5,3 +5,10 @@ E:\GitHub\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\
 E:\GitHub\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.csprojResolveAssemblyReference.cache
 E:\GitHub\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.dll
 E:\GitHub\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.pdb
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\Views\Abc\Index.cshtml
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\Lxs.Plugin.Payments.Alipay.dll.config
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\Lxs.Plugin.Payments.Alipay.dll
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\Lxs.Plugin.Payments.Alipay.pdb
+E:\GitHub\WebMvc\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.dll
+E:\GitHub\WebMvc\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.pdb
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\Plugin.txt
