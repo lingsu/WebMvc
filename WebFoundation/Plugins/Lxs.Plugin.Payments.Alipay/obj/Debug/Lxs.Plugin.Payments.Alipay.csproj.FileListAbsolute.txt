@@ -12,3 +12,4 @@ E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.
 E:\GitHub\WebMvc\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.dll
 E:\GitHub\WebMvc\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.pdb
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\Plugins\Lxs.Plugin.Payments.Alipay\Plugin.txt
+E:\GitHub\WebMvc\WebFoundation\Plugins\Lxs.Plugin.Payments.Alipay\obj\Debug\Lxs.Plugin.Payments.Alipay.csprojResolveAssemblyReference.cache
