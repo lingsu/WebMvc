@@ -220,6 +220,10 @@
       <Project>{a4c70be7-2b14-4484-bef4-387397fc3701}</Project>
       <Name>Lxs.Services</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Lxs.Web.Framework\Lxs.Web.Framework.csproj">
+      <Project>{7a9f321c-dd45-4b70-95f6-1b329aca1ce0}</Project>
+      <Name>Lxs.Web.Framework</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

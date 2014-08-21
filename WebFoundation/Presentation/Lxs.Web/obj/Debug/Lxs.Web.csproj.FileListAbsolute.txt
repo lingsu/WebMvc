@@ -122,3 +122,5 @@ E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\zh-Hans\System.Web.Http.
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\obj\Debug\Lxs.Web.csprojResolveAssemblyReference.cache
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\obj\Debug\Lxs.Web.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\obj\Debug\Lxs.Web.pdb
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Web.Framework.dll
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Web.Framework.pdb
