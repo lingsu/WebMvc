@@ -17,21 +17,24 @@ namespace Lxs.Data
 
         public void InitDatabase()
         {
-            InitConnectionFactory();
+            //InitConnectionFactory();
             SetDatabaseInitializer();
         }
 
         public void InitConnectionFactory()
         {
-            var connectionFactory = new SqlConnectionFactory();
+            var connectionFactory =
+                new SqlConnectionFactory(
+                    "Data Source=.;Initial Catalog=lxsOa;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=123456)");
 
             Database.DefaultConnectionFactory = connectionFactory;
         }
 
         public void SetDatabaseInitializer()
         {
-            var initializer = new CreateTablesIfNotExist<LxsObjectContext>();
-            Database.SetInitializer(initializer);
+           var initializer = new CreateTablesIfNotExist<LxsObjectContext>();
+           Database.SetInitializer(initializer);
+           // Database.SetInitializer(new CreateDatabaseIfNotExists<LxsObjectContext>());
         }
 
         public DbParameter GetParameter()

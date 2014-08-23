@@ -73,6 +73,7 @@ E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\EntityFramework.SqlServe
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Core.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Data.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Services.dll
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Web.Framework.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Microsoft.Web.Infrastructure.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\MiniProfiler.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Newtonsoft.Json.dll
@@ -90,6 +91,7 @@ E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\WebGrease.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Core.pdb
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Data.pdb
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Services.pdb
+E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Web.Framework.pdb
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Autofac.xml
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Autofac.Integration.Mvc.xml
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\AutoMapper.xml
@@ -122,5 +124,3 @@ E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\zh-Hans\System.Web.Http.
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\obj\Debug\Lxs.Web.csprojResolveAssemblyReference.cache
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\obj\Debug\Lxs.Web.dll
 E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\obj\Debug\Lxs.Web.pdb
-E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Web.Framework.dll
-E:\GitHub\WebMvc\WebFoundation\Presentation\Lxs.Web\bin\Lxs.Web.Framework.pdb

@@ -5,9 +5,6 @@ E:\GitHub\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.dll
 E:\GitHub\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.pdb
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Services.dll
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Services.pdb
-E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.csprojResolveAssemblyReference.cache
-E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.dll
-E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.pdb
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Core.dll
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Lxs.Data.dll
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\Autofac.dll
@@ -26,3 +23,8 @@ E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\System.Web.Razor
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\System.Web.WebPages.Razor.xml
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\System.Web.WebPages.xml
 E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.csprojResolveAssemblyReference.cache
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.dll
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\obj\Debug\Lxs.Services.pdb
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\WebMvc\WebFoundation\Libraries\Lxs.Services\bin\Debug\EntityFramework.SqlServer.xml

@@ -84,6 +84,9 @@
     <Compile Include="ComponentModel\WriteLockDisposable.cs" />
     <Compile Include="Data\IRepository.cs" />
     <Compile Include="Domain\Common\GenericAttribute.cs" />
+    <Compile Include="Domain\Messages\EmailAccount.cs" />
+    <Compile Include="Domain\Messages\MessageTemplate.cs" />
+    <Compile Include="Domain\Messages\QueuedEmail.cs" />
     <Compile Include="Domain\Users\User.cs" />
     <Compile Include="Domain\Users\UserExtensions.cs" />
     <Compile Include="Infrastructure\AppDomainTypeFinder.cs" />
@@ -95,9 +98,11 @@
     <Compile Include="Infrastructure\LxsEngine.cs" />
     <Compile Include="Infrastructure\Singleton.cs" />
     <Compile Include="Infrastructure\WebAppTypeFinder.cs" />
+    <Compile Include="IPagedList.cs" />
     <Compile Include="IWebHelper.cs" />
     <Compile Include="IWorkContext.cs" />
     <Compile Include="LxsVersion.cs" />
+    <Compile Include="PagedList.cs" />
     <Compile Include="Plugins\BasePlugin.cs" />
     <Compile Include="Plugins\IPlugin.cs" />
     <Compile Include="Plugins\PluginFileParser.cs" />
@@ -108,7 +113,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Domain\Flow\" />
-    <Folder Include="Domain\Messages\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

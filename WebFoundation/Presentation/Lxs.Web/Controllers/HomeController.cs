@@ -11,6 +11,8 @@ using System.Web.Hosting;
 using System.Web.Mvc;
 using Lxs.Core;
 using Lxs.Core.Infrastructure;
+using Lxs.Data;
+using Lxs.Services.Installation;
 
 namespace Lxs.Web.Controllers
 {
@@ -47,7 +49,18 @@ namespace Lxs.Web.Controllers
 
             LambdaExpression exp = Expression.Lambda(expCall, expA); // a => Math.Sin(a)
             var cc = exp.Compile();
+
+
+
             Debug.WriteLine(cc);
+
+
+
+            var db = EngineContext.Current.Resolve<IInstallationService>();
+            db.InstallData();
+            Debug.WriteLine(DateTime.Now + TimeSpan.FromMinutes(60));
+               // Debug.WriteLine(db);
+
             return View();
         }
 

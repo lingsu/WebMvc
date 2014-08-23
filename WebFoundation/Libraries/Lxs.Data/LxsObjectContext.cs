@@ -13,30 +13,35 @@ using Lxs.Core;
 
 namespace Lxs.Data
 {
+    [DbConfigurationType(typeof(MyConfiguration))]
     public class LxsObjectContext:DbContext,IDbContext
     {
         public LxsObjectContext(string nameOrConnectionString):base(nameOrConnectionString)
         {
+            //((IObjectContextAdapter) this).ObjectContext.ContextOptions.LazyLoadingEnabled = true;
         }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
 
-            var typesToRegister =
-                Assembly.GetExecutingAssembly()
-                    .GetTypes()
-                    .Where(x => !string.IsNullOrEmpty(x.Namespace))
-                    .Where(
-                        x =>
-                            x.BaseType != null && x.IsGenericType &&
-                            x.BaseType.GetGenericTypeDefinition() == typeof (EntityTypeConfiguration<>));
+            //dynamically load all configuration
+            //System.Type configType = typeof(LanguageMap);   //any of your configuration classes here
+            //var typesToRegister = Assembly.GetAssembly(configType).GetTypes()
+
+            var typesToRegister = Assembly.GetExecutingAssembly().GetTypes()
+                .Where(type => !String.IsNullOrEmpty(type.Namespace))
+                .Where(
+                    type =>
+                        type.BaseType != null && type.BaseType.IsGenericType &&
+                        type.BaseType.GetGenericTypeDefinition() == typeof (EntityTypeConfiguration<>));
 
             foreach (var type in typesToRegister)
             {
                 dynamic configurationInstance = Activator.CreateInstance(type);
                 modelBuilder.Configurations.Add(configurationInstance);
             }
-
+            //...or do it manually below. For example,
+            //modelBuilder.Configurations.Add(new LanguageMap());
             base.OnModelCreating(modelBuilder);
         }
 
